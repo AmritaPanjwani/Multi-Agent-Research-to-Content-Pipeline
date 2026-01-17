@@ -1,0 +1,6 @@
+crewai==0.22.5
+crewai-tools==0.0.15
+langchain-ibm==0.1.3
+ibm-watsonx-ai
+python-pptx
+pillow
